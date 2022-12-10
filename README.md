@@ -1,2 +1,0 @@
-# Data Analytics .
-README.md
